@@ -43,9 +43,7 @@ Users should be able to:
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Web site age calculator](https://jonathancabuyales.github.io/age_calculator/)
 
 ## My process
 
@@ -66,8 +64,8 @@ I learned that I need to keep practicing my js skills because I feel a little we
 
 
 ## Author
-
-- Website - [Jonathan Cabuyales](developing)
+<!-- - [Jonathan Cabuyales](developing) -->
+- Website - developing
 - Frontend Mentor - [@JonathanCabuyales](https://www.frontendmentor.io/profile/JonathanCabuyales)
 
 ## Acknowledgments
