@@ -26,7 +26,7 @@
     
 }
 
-html, body{
+main{
     width: 100%;
     height: 100vh;
     display: flex;
@@ -161,8 +161,9 @@ label{
     }
     .calculator{
         width: 100%;
-        max-width: 768px;
+        max-width: 668px;
         align-items: flex-start;
+        border-bottom-right-radius: 12em;
         /* border: 1px solid black; */
         /* justify-content: flex-start; */
     }
@@ -190,6 +191,9 @@ label{
     .img{
         width: 40px;
         height: 40px;
+    }
+    h2{
+        display: inline-block;
     }
 }
 
