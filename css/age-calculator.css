@@ -120,6 +120,11 @@ label{
     height: 25px;
 }
 
+h2{
+    display: inline-block;
+    font-size: 1.45em;
+}
+
 
 .results{
     /* height: 250px; */
