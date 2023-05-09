@@ -38,7 +38,8 @@ Users should be able to:
 
 - Age calculator completed ![completed](./design/desktop-completed.jpg)
 - Empty inputs ![Empty inputs](./design/desktop-error-empty.jpg)
-- mobile design ![Mobile Design](./design/mobile-design.jpg)
+- mobile design 
+![Mobile Design](./design/mobile-design.jpg)
 
 
 ### Links
